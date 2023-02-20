@@ -1,5 +1,4 @@
 # Speech to text API
----
 
 Speech to text app ist an Flask api that transcribe whatsapp audios into a text and send it back to the user.
 

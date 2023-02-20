@@ -3,10 +3,12 @@
 This repository is a personal use repository when I store my Python Scripts that I'm creating.
 * daily_horoscope
 * flight_offers_app
+* speech_to_text
 
+---
 ### Daily Horoscope
 Send an email every morning to my personal email with the horoscope of the day
-
+---
 ### Flight Offers App
 Send and email with the best flight offers for the list of destinies that I configured.
 ``` yaml   
@@ -80,6 +82,10 @@ This is looking for the cheapest flights from
 * LIM -> AMS
 * MUC -> MVD
 * MUC -> SYD
-
+---
 ### SendEmail
 SendEmail is a shared library with the only function to send emails.
+
+---
+### Speech to text
+Flask API to connect with WhatsApp Cloud API and transcribe the audio messages sending back to the user the prcessed text from the audio.
