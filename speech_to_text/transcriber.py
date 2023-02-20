@@ -5,7 +5,7 @@ class Transcriber:
       self.model = whisper.load_model(model)
 
    """
-      convert speach to text and return two variables
+      convert speech to text and return two variables
       - language: eg "en"
       - text: eg "Good morning, this is a whatsapp audio"
    """
