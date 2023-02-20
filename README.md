@@ -8,6 +8,7 @@ This repository is a personal use repository when I store my Python Scripts that
 ---
 ### Daily Horoscope
 Send an email every morning to my personal email with the horoscope of the day
+
 ---
 ### Flight Offers App
 Send and email with the best flight offers for the list of destinies that I configured.
